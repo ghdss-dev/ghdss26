@@ -90,6 +90,6 @@ Estudando há mais de 3 meses na área de Desenvolvimento Web e Mobile, enxergo 
 </div>
 
 
-  ![Snake animation](https://github.com/ghdss26/ghdss26/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
