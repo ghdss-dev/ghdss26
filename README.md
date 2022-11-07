@@ -81,3 +81,9 @@ Estudando há mais de 3 meses na área de Desenvolvimento Web e Mobile, enxergo 
 </div>
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+### 💻 Desempenho no Github
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghdss26&amp;theme=radical">
+</div>
+
