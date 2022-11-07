@@ -51,7 +51,8 @@ Estudando há mais de 3 meses na área de Desenvolvimento Web e Mobile, enxergo 
 <div style="display: inline_block"><br> 
   
  <img align="center" alt="ghdss25-kotlin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
- 
+ <img align="center" alt="ghdss25-java-android" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java_android/java_android-original.svg">
+  
 </div>
 
 ### 💻 Estudando atualmente tecnologias Híbridas  
