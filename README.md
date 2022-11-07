@@ -80,10 +80,14 @@ Estudando há mais de 3 meses na área de Desenvolvimento Web e Mobile, enxergo 
   <img align="center" alt="ghdss25-Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
 </div>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
 ### 💻 Desempenho no Github
+
 <div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghdss26&amp;theme=radical">
 </div>
+
+
+  ![Snake animation](https://github.com/ghdss26/ghdss26/blob/output/github-contribution-grid-snake.svg)
+
 
