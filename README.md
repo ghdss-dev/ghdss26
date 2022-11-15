@@ -46,6 +46,13 @@ Estudando há mais de 3 meses na área de Desenvolvimento Web e Mobile, enxergo 
 
 </div>
 
+### 💻 Estudando atualmente tecnologias Voltados a Framework Back - end 
+<div style="display: inline_block"><br> 
+  
+ <img align="center" alt="ghdss25-spring" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+
+</div>
+
 ### 💻 Estudando atualmente tecnologias Nativas 
 
 <div style="display: inline_block"><br> 
