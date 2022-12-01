@@ -13,7 +13,7 @@
   
 ### 📖 Sobre mim
 
-Estudando há mais de 3 meses na área de Desenvolvimento Web e Mobile, enxergo a TI como grande ponto de propulsão para o negócio. Tive a oportunidade de criar projetos acadêmicos e pessoais para aprimorar boas praticas de arquitetura no padrão MVC e procedural com a intenção de adquirir experiência e resolução de problemas com vários assuntos da vida. Utilizando as seguintes tecnologias 
+Estudando há mais de 2 anos na área de Desenvolvimento Web e Mobile, enxergo a TI como grande ponto de propulsão para o negócio. Tive a oportunidade de criar projetos acadêmicos e pessoais para aprimorar boas praticas de arquitetura no padrão MVC e procedural com a intenção de adquirir experiência e resolução de problemas com vários assuntos da vida. Utilizando as seguintes tecnologias 
 
 </details>
 
