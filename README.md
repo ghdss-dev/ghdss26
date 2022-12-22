@@ -51,6 +51,8 @@ Estudando há mais de 2 anos na área de Desenvolvimento Web e Mobile, enxergo a
 <div style="display: inline_block"><br> 
   
  <img align="center" alt="ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+    
+ <img align="center" alt="ghdss25-angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 
 </div>
 
@@ -78,9 +80,7 @@ Estudando há mais de 2 anos na área de Desenvolvimento Web e Mobile, enxergo a
  <img align="center" alt="ghdss25-flutter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
  
  <img align="center" alt="ghdss25-react-native" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
- <img align="center" alt="ghdss25-react-native" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  
+
 </div>
 
 ### 💻 Estudando atualmente tecnologias de Banco de Dados
