@@ -17,7 +17,7 @@ Estudando há mais de 2 anos na área de Desenvolvimento Web e Mobile, enxergo a
 
 </details>
 
-![Gustavo github stats](https://github-readme-stats.vercel.app/api?username=ghdss26&show_icons=true&theme=dracula)
+![Gustavo github stats](https://github-readme-stats.vercel.app/api?username=ghdss25&show_icons=true&theme=dracula)
 
 ## Tecnologias mais utilizadas
 
