@@ -54,7 +54,7 @@ Estudando há mais de 2 anos na área de Desenvolvimento Web e Mobile, enxergo a
     
  <img align="center" alt="ghdss25-angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
  
- <img align="center" alt="ghdss25-angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactjs/reactjs-original.svg">
+ <img align="center" alt="ghdss25-react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 
 </div>
 
