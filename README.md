@@ -81,7 +81,7 @@ Estudando há mais de 2 anos na área de Desenvolvimento Web e Mobile, enxergo a
   
  <img align="center" alt="ghdss25-flutter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
  
- <img align="center" alt="ghdss25-react-native" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="ghdss25-react-native" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg">
 
 </div>
 
