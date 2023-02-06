@@ -42,7 +42,8 @@ Estudando há mais de 2 anos na área de Desenvolvimento Web e Mobile, enxergo a
   
  <img align="center" alt="ghdss25-java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
- 
+   <img align="center" alt="ghdss25-python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
  <img align="center" alt="ghdss25-php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
 
  <img align="center" alt="ghdss25-dart" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
