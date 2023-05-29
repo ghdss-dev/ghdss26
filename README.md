@@ -86,8 +86,10 @@ Estudando há mais de 2 anos na área de Desenvolvimento Web e Mobile, enxergo a
 ### 💻 Estudando atualmente tecnologias Híbridas  
 
 <div style="display: inline_block"><br> 
-  
- <img align="center" alt="ghdss25-flutter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+
+   <img align="center" alt="ghdss25-flutter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+
+   <img align="center" alt="ghdss25-ionic" height="40" width="40" src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
 
 </div>
 
