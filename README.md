@@ -17,15 +17,15 @@ Estudando há mais de 2 anos na área de Desenvolvimento Web e Mobile, enxergo a
 
 </details>
 
-![Gustavo github stats](https://github-readme-stats.vercel.app/api?username=ghdss-science&show_icons=true&theme=dark)
+![Gustavo github stats](https://github-readme-stats.vercel.app/api?username=ghdss-dev&show_icons=true&theme=dark)
 
 ## Tecnologias mais utilizadas
 
  <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghdss-science&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghdss-dev&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 
-### 💻 Estudando atualmente tecnologias para Dashboards
+### 💻 Estudando atualmente tecnologias Front - end
 
 <div style="display: inline_block"><br>
   
@@ -39,7 +39,7 @@ Estudando há mais de 2 anos na área de Desenvolvimento Web e Mobile, enxergo a
   
  <img align="center" alt="ghdss25-java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
-   <img align="center" alt="ghdss25-python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="ghdss25-python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
  <img align="center" alt="ghdss25-php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
 
@@ -111,7 +111,7 @@ Estudando há mais de 2 anos na área de Desenvolvimento Web e Mobile, enxergo a
 ### 💻 Desempenho no Github
 
 <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghdss-science&amp;theme=radical">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghdss-dev&amp;theme=radical">
 </div>
 
 
