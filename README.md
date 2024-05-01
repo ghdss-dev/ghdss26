@@ -17,21 +17,76 @@ Estudando há mais de 2 anos na área de Desenvolvimento Web e Mobile, enxergo a
 
 </details>
 
-![Gustavo github stats](https://github-readme-stats.vercel.app/api?username=ghdss26&show_icons=true&theme=dark)
+![Gustavo github stats](https://github-readme-stats.vercel.app/api?username=ghdss-science&show_icons=true&theme=dark)
 
 ## Tecnologias mais utilizadas
 
  <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghdss26&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghdss-science&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 
-### 💻 Estudando atualmente tecnologias de programação para análise e ciência dos dados
+### 💻 Estudando atualmente tecnologias para Dashboards
+
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="ghdss25-PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+</div>
+
+### 💻 Estudando atualmente tecnologias Back - end 
 
 <div style="display: inline_block"><br> 
   
- <img align="center" alt="ghdss25-python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="ghdss25-java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
- <img align="center" alt="ghdss25-php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"> 
+   <img align="center" alt="ghdss25-python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+ <img align="center" alt="ghdss25-php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
+
+ <img align="center" alt="ghdss25-dart" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  
+ <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> 
+
+</div>
+
+
+### 💻 Estudando atualmente tecnologias Voltados a Framework Front - end 
+<div style="display: inline_block"><br> 
+  
+ <img align="center" alt="ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+    
+ <img align="center" alt="ghdss25-angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+ 
+ <img align="center" alt="ghdss25-react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  
+ <img align="center" alt="ghdss25-vue" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+
+</div>
+
+### 💻 Estudando atualmente tecnologias Voltados a Framework Back - end 
+<div style="display: inline_block"><br> 
+  
+ <img align="center" alt="ghdss25-spring" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+
+</div>
+
+
+### 💻 Estudando atualmente tecnologias Nativas 
+
+<div style="display: inline_block"><br> 
+  
+ <img align="center" alt="ghdss25-kotlin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+ <img align="center" alt="ghdss25-java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+  
+</div>
+
+### 💻 Estudando atualmente tecnologias Híbridas  
+
+<div style="display: inline_block"><br> 
+
+   <img align="center" alt="ghdss25-flutter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+
+   <img align="center" alt="ghdss25-ionic" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
 
 </div>
 
@@ -56,10 +111,11 @@ Estudando há mais de 2 anos na área de Desenvolvimento Web e Mobile, enxergo a
 ### 💻 Desempenho no Github
 
 <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghdss26&amp;theme=radical">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghdss-science&amp;theme=radical">
 </div>
 
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 
 
